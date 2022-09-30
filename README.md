@@ -1,2 +1,4 @@
 # Fake-Store-API
-Javascript
+Javascript/CSS/HTML
+- Fetch data from API and display data into browser.
+- DOC: https://fakestoreapi.com/docs
